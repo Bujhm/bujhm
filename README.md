@@ -5,7 +5,7 @@
 Here are some facts about me and my work/life:
 
 - 🔭 I’m currently working on trying to make interview tasks on the Laravel framework
-- 🌱 I’m currently learning: AWS Technical Essentials & Kubernetes & React, NodeJS, ![image](https://github.com/Bujhm/bujhm/assets/369667/e60b67be-6cc5-4395-9244-49d6f826cf46)
+- 🌱 I’m currently learning: AWS Technical Essentials & Kubernetes & React, NodeJS, ScyllaDB
 - 👯 I’m looking to collaborate on ...
 - 🤔 Is php-development job exist in Canada?
 - 💬 Ask me about anything )
