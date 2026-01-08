@@ -7,7 +7,6 @@ Here are some facts about me and my work/life:
 - 🔭 I’m currently working on trying to get AWS Certification
 - 🌱 I’m currently learning: AWS Technical Essentials & Kubernetes & ~React~, ~NodeJS~, ~TypeScript~, ScyllaDB, Java+Spring+SpringBoot, Python+Django
 - 👯 I’m looking to collaborate on ...
-- 🤔 Is php-development job exists in Canada?
 - 💬 Ask me about anything )
 - 📫 How to reach me: twitter
 - 😄 Pronouns: he/him
